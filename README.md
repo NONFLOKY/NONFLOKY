@@ -10,7 +10,7 @@ Alejandro Perez</a></h1>
 - 🔭 Actualmente me encuentro cursando en la tecnicatura en programacion en https://www.frsr.utn.edu.ar/ </a>
 
 
-- 🤝 Tambien me encuentro estudianto base de datos y cIberseguridad 
+- 🤝 Tambien me encuentro estudiando base de datos y cIberseguridad 
 
 - 🌱💻 Tech Stack:
 - ![image](https://github.com/user-attachments/assets/21142d48-f2c0-49fe-83db-16221d745396),![image](https://github.com/user-attachments/assets/94efaafd-ced0-40e4-909b-a97b5aefe3ba),![image](https://github.com/user-attachments/assets/69c25662-7f0e-4cca-98f6-27a60bda36a9),![image](https://github.com/user-attachments/assets/27901bf0-0905-41cb-bc45-70d8620a9510)
